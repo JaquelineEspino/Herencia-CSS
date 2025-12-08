@@ -8,7 +8,7 @@ Este repositorio contiene una página HTML cuyo tema principal es sobre una seri
 En el HTML se utilizaron etiquetas como `<main>`, `<section>`, `<nav>`, `<h1>`, `<h2>`, `<h3>`, `<ol>`, `<footer>`, entre otras para darle una mejor estructura al contenido de la página web. En el archivo CSS, se utilizaron diferentes tipos de selectores (elementos, clase y ID) y diferentes atributos para darle un estilo único al sitio web, cambiando la tipografía, el color de fondo, el tamaño de la fuente, el tamaño de las imagenes agregadas, etc. También se utilizó la herencia poniendo atributos como *font-family*, *text-align* y *margin* en el body para aplicar estos atributos a todo el cuerpo de la página, utilizando el valor de *inherit* en *margin* para forzar la herencia.
 
 ## Como ver el sitio web
-Entra al siguiente enlace para navegar por el sitio web. URL Pública (GitHub Pages): https://jaquelineespino.github.io/Practica-introduccion-CSS/
+Entra al siguiente enlace para navegar por el sitio web. URL Pública (GitHub Pages): https://jaquelineespino.github.io/Herencia-CSS/
 
 ## Autor
 Página web creada por Jaqueline Espino Sigala.
