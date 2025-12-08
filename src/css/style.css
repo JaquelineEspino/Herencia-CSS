@@ -1,7 +1,13 @@
 body {
     background-color: #222222; 
     color: #ffffff;
+    text-align: justify;
     font-family: 'Montserrat', Helvetica, sans-serif;
+    margin: 15px; 
+}
+
+main{
+    margin: inherit;
 }
 
 #miID {
